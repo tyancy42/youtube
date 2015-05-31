@@ -1,0 +1,49 @@
+body {
+background-color: #bdc7c4;
+}
+
+header {
+background-color: #ffffff;
+}
+
+textarea {
+  font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  width: 50%;
+}
+input {
+position: absolute;
+top: 2em;
+left: 12em;
+width: 40%;
+}
+
+#video {
+margin-left: 6.5em;
+margin-right: 26em;
+background-color: #ffffff;
+width: 60%;
+}
+
+#video-info {
+margin-left: 6.5em;
+margin-right: 26em;
+background-color: #ffffff;
+}
+
+#video-description {
+margin-left: 6.5em;
+margin-right: 26em;
+background-color: #ffffff;
+}
+
+#comments {
+margin-left: 6.5em;
+margin-right: 26em;
+background-color: #ffffff;
+}
+
+#sidebar {
+position: absolute;
+right: 20px;
+top: 129px;
+}
